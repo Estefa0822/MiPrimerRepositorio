@@ -1,3 +1,6 @@
 Mi primer archivo para subir
 
 Aqui puedo poner mi código
+Aqui voy a empezar a poner todos mis métodos
+mis variables
+mis eventos
